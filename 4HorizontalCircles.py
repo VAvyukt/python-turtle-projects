@@ -1,0 +1,18 @@
+from turtle import *
+
+penup()
+setx(-150)
+pendown()
+circle(50)
+penup()
+forward(100)
+pendown()
+circle(50)
+penup()
+forward(100)
+pendown()
+circle(50)
+penup()
+forward(100)
+pendown()
+circle(50)
