@@ -1,3 +1,4 @@
+#The below line imports the python turtle computer defined functions, etc.
 from turtle import *
 
 penup()
