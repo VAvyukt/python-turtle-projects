@@ -1,2 +1,2 @@
-# python-projects
-This is a repo for all of my Python projects.
+# python-turtle-projects
+This is a repo for all of my Python turtle projects.
